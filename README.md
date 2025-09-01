@@ -4,5 +4,5 @@
 
 # Запуск проекта
 ```bash
-go run .
+go run main.go
 ```
